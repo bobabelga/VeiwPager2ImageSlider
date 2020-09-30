@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VeiwPager2ImageSlider</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="hello_boba">Hello Boba</string>
+    <string name="where_are_we">Where Are We</string>
+    <string name="going_today">Going Today</string>
+</resources>
